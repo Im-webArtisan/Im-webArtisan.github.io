@@ -1,0 +1,96 @@
+html, body{
+    background-color: #000;
+}
+.nav{
+    padding:20px 20px 20px 15px;
+    font-size:1.5em;
+}
+.nav .row a {
+    text-decoration: none;
+    color: #ffffff;;
+}
+.brand{
+    padding:20px 20px 20px 15px;
+    background-color: #141414;
+}
+
+.fa.fa-logo{
+    font-size: 70px;
+    color: #00ba66;
+    white-space: normal;
+}
+
+.fa.fa-settings{
+    font-size: 30px;
+    color: #00ba66;
+    white-space: normal;
+}
+.fa.fa-product{
+    font-size: 40px;
+    color: #00ba66;
+    white-space: normal;
+}
+.fa-footer{
+    font-size: 20px;
+    color: #00ba66;
+    white-space: normal;
+}
+.brand-name{
+    font-size:4.0em;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    top:10px;
+}
+hr{
+    margin:auto;
+    width:150px;
+    border-width:3px;
+    border-color: #00ba66;
+}
+.heading{
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 12px;
+}
+.title{
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+.sub-title{
+      color: #ffffff;
+      letter-spacing: 1px;
+  }
+.skill{
+    color: #ffffff;
+}
+
+.team-image{
+    width: 195px;
+}
+.team-name{
+    color: #ffffff;
+    letter-spacing: 8px;
+}
+.contact-info{
+    color: #ffffff;
+    text-align: center;
+    letter-spacing: 2px;
+}
+a{
+    letter-spacing: 4px;
+    color: #00ba66;
+}
+a:hover{
+    color: #00ba66;
+}
+footer{
+    color: #ffffff;
+    letter-spacing: 1px;
+    background-color: #141414;
+    padding:20px 20px;
+}
+.footer-mobile{
+    color: #00ba66;
+    letter-spacing: 1px;
+}
